@@ -3,6 +3,8 @@ Temperature scale converter for Kelvin, Celsius, and Fahrenheit that you can bun
 
 It currently supports: Celsius, Kelvin, and Fahrenheit
 
+`npm i fahrkelvin`
+
 **How to use:** 
 - Import the `convert()` function from this module.
 - Pass an object as its argument with the scale from which you want to convert, to which, and the value in a numeric format:
